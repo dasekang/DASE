@@ -1,10 +1,4 @@
-## Members
-~~~
-
-
-~~~
-
-## Publications
+## 
 ~~~
 
 
