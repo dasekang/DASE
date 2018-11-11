@@ -3,7 +3,7 @@
 Software is still eating the world!
 ~~~
 
-## 2. Software SEcurity
+## 2. Software Security
 
 ~~~
 You may not interested in cyberwar, but cyberwar intersted in you !
